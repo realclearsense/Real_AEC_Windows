@@ -29,6 +29,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 <p>微信</p>
 <img width="100" align="left" src="http://realclearsense.com/common/file/download?storeFileName=0201912021320232948.jpg">
 
+
 http://realclearsense.com/
 
 
@@ -57,4 +58,5 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 
 ## Contact
 email: ranting@realcleardsp.com
+
 http://realclearsense.com/
