@@ -43,7 +43,7 @@ RealClear AEC SDK is developed by ChongQing RealClear Co.Ltd for acoustic echo c
 - handles echo tails of up to 500ms
 - supports various acoustic structure of devices and echo path, for example video sound bar
 - fast convergence (< 200ms)
-- handles single talk echo of up to 70dB
+- handles single talk echo suppression of up to 70dB
 - full-duplex operation outputs lossless and smooth audio(when far and near signal level in normal range)
 ## How to use
 This SDK can be only used in Visual Studio (recommend VS2019)
