@@ -16,7 +16,7 @@ RealClear AEC SDK是由重庆瑞可利科技有限公司开发的回声消除解
 
 属性->C/C++->代码生成->运行库->多线程DLL（/MD）
 
-调用接口：
+调用接口：  
 extern "C" _declspec(dllexport) void* REAL_AEC_create(int frame_len, int sample_rate);  
 extern "C" _declspec(dllexport) void REAL_AEC_delete(void* ptr);  
 extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf, short* spk_buf, short* out_buf);  
@@ -50,7 +50,7 @@ This SDK can be only used in Visual Studio (recommend VS2019)
 
 properties->C/C++->Code Generation->Runtime Library->Multi-threaded DLL（/MD）
 
-API：
+API：  
 extern "C" _declspec(dllexport) void* REAL_AEC_create(int frame_len, int sample_rate);  
 extern "C" _declspec(dllexport) void REAL_AEC_delete(void* ptr);  
 extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf, short* spk_buf, short* out_buf);  
