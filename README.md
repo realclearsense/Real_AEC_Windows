@@ -57,6 +57,6 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 ## Demo
 
 ## Contact
-email: ranting@realcleardsp.com
+email: 2217510@qq.com
 
 http://realclearsense.com/
