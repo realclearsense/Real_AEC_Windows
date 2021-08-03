@@ -24,6 +24,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 
 ## 联系我们
 <p>QQ</p>
+
 ![QQ QRcode](http://realclearsense.com/img/images/qq.jpg)
 ![weChat QRcode](http://realclearsense.com/img/images/wechat.jpg)
 
