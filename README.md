@@ -24,10 +24,10 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 
 ## 联系我们
 <p>QQ</p>
-<img width="100" align="left" src="https://github.com/realclearsense/Real_AEC_Windows/blob/master/contact/qq.jpg">  
-<p></p>          
+<p><img width="100" align="left" src="https://github.com/realclearsense/Real_AEC_Windows/blob/master/contact/qq.jpg"></p>
+
 <p>微信</p>
-<img width="100" align="left" src="https://github.com/realclearsense/Real_AEC_Windows/blob/master/contact/wechat.jpg">
+<p><img width="100" align="left" src="https://github.com/realclearsense/Real_AEC_Windows/blob/master/contact/wechat.jpg"></p>
 
 
 http://realclearsense.com/
