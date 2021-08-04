@@ -22,7 +22,10 @@ extern "C" _declspec(dllexport) void REAL_AEC_delete(void* ptr);
 extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf, short* spk_buf, short* out_buf);  
 ## 效果展示
 
-![aecout](https://github.com/realclearsense/Real_AEC_Windows/blob/master/reverberant_room_demo_data/aecout.mp3)
+
+https://user-images.githubusercontent.com/9622783/128147265-953444aa-1887-419c-8c0a-d6c47667931d.mp4
+
+
 
 ## 联系我们
 |QQ|微信|
