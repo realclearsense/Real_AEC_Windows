@@ -23,7 +23,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 ## 效果展示
 
 <audio id="audio" controls="" preload="none">
-      <source id="mp3" src="https://github.com/realclearsense/Real_AEC_Windows/blob/master/reverberant_room_demo_data/aecout.wav">
+      <source type="audio/wav" src="https://github.com/realclearsense/Real_AEC_Windows/blob/master/reverberant_room_demo_data/aecout.wav">
 </audio>
 
 ## 联系我们
