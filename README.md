@@ -23,7 +23,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 ## 效果展示
 
 <audio controls="controls" >
-      <source type="audio/wav" src="https://github.com/realclearsense/Real_AEC_Windows/blob/master/reverberant_room_demo_data/aecout.wav"></source>
+      <source type="audio/mp3" src="https://github.com/realclearsense/Real_AEC_Windows/blob/master/reverberant_room_demo_data/aecout.mp3"></source>
       <p>Your browser does not support the audio element.</p>
 </audio>
 
