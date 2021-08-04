@@ -23,7 +23,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 ## 效果展示
 
 
-![aecout](https://user-images.githubusercontent.com/9622783/128147265-953444aa-1887-419c-8c0a-d6c47667931d.mp4)
+https://user-images.githubusercontent.com/9622783/128147265-953444aa-1887-419c-8c0a-d6c47667931d.mp4
 
 
 
