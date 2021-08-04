@@ -38,7 +38,7 @@ http://realclearsense.com/
 RealClear AEC SDK is developed by ChongQing RealClear Co.Ltd for acoustic echo cancellation. It has the following features:
 - supports full-band (48 kHz) acoustic echo cancellation, noise suppression and dereverberation
 - handles echo tails of up to 500ms
-- supports various acoustic structure of devices and echo path, for example video sound bar
+- handles various acoustic structures of devices and echo path, for example video sound bar
 - fast convergence (< 200ms)
 - handles single talk echo suppression of up to 70dB
 - full-duplex operation outputs lossless and smooth audio(when far and near signal level in normal range)
