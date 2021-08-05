@@ -104,6 +104,9 @@ extern "C" _declspec(dllexport) void REAL_AEC_delete(void* ptr);
 extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf, short* spk_buf, short* out_buf);  
 
 ## Demo
+Demo audio files download：  
+[Normal environment test audio files](https://github.com/realclearsense/Real_AEC_Windows/tree/master/normal_room_demo_data)   
+[Reverberant environment test audio files](https://github.com/realclearsense/Real_AEC_Windows/tree/master/reverberant_room_demo_data)   
 ### Normal environment
 Testing environment: 6-8 square metre study room, almost no reverberation.
 #### Single Talk
