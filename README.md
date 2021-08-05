@@ -23,7 +23,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 
 ## 效果展示
 ### 普通环境
-测试环境：6-8平米书房，混响较小
+测试环境：6-8平米书房，混响较小   
 离麦克风1米距离说话，DELL笔记本扬声器和双麦阵列。
 #### 单讲测试效果
 https://user-images.githubusercontent.com/9622783/128284334-fe78882d-fdc9-4739-87bb-03b987b303f6.mp4
@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/9622783/128284462-80eae948-ec43-4884-b
 
 
 ### 混响环境
-测试环境：35平米房间，混响较大
+测试环境：35平米房间，混响较大   
 离麦克风1米距离说话，DELL笔记本扬声器和双麦阵列。
 
 
