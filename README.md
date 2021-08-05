@@ -22,6 +22,9 @@ extern "C" _declspec(dllexport) void REAL_AEC_delete(void* ptr);
 extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf, short* spk_buf, short* out_buf);  
 
 ## 效果展示
+所有展示用数据都可下载：  
+[普通环境音频文件](https://github.com/realclearsense/Real_AEC_Windows/tree/master/normal_room_demo_data)   
+[混响环境音频文件](https://github.com/realclearsense/Real_AEC_Windows/tree/master/reverberant_room_demo_data)
 ### 普通环境
 测试环境：6-8平米书房，混响较小   
 离麦克风1米距离说话，DELL笔记本扬声器和双麦阵列。
