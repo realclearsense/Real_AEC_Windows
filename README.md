@@ -27,7 +27,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_delete(void* ptr);
 extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf, short* spk_buf, short* out_buf);  
 
 ## 效果展示
-所有展示用数据都可下载： [音频文件](https://github.com/realclearsense/Real_AEC_Windows/tree/master/normal_room_demo_data)   
+更多效果展示[音频文件](https://github.com/realclearsense/Real_AEC_Windows/tree/master/demo_audio_data)   
 
 
 https://user-images.githubusercontent.com/9622783/131081455-2275ccc6-4b17-4525-bbdd-420761d6ee49.mp4
