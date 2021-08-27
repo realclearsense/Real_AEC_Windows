@@ -81,7 +81,7 @@ RealClear AEC SDK is developed by ChongQing RealClear Co.Ltd for acoustic echo c
 - handles various acoustic structures of devices and echo path, for example video sound bar, smart glass or earphones.
 - fast convergence (< 200ms) at the speed of up to 100 dB / sec.
 - handles single talk echo suppression of up to 80dB under various acoustics environment.
-- full-duplex operation outputs lossless and smooth audio(when far and near signal level in normal range), provides more than 40 dB echo suppression during double talk.
+- full-duplex operation outputs lossless and smooth audio (when far and near signal level in normal range), provides more than 40 dB echo suppression during double talk.
 - supports all platforms (ARM\RISC-V\MIPS\DSP\X86) with platform-specific float-point or fixed-point algorithms.
 - supports far-field sound pickup and beamforming using audio devices with multiple micphones, supports extensible module like afc (adaptive feedback cancellation).
 - our solutions have been widely used in applications like video conferencing, cell phones and other consumer electronics.
