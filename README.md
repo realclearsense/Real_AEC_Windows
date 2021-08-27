@@ -4,7 +4,7 @@
 # 瑞可利 AEC SDK（Windows版）
 English instruction please see below.
 ## 简介
-RealClear AEC SDK是由重庆瑞可利科技有限公司开发的回声消除解决方案。我们目标是提供和[Poly](https://www.poly.com/cn/zh)或[ADT](https://www.adaptivedigital.com/)一样完美的音频解决方案。
+RealClear AEC SDK是由重庆瑞可利科技有限公司开发的回声消除解决方案。我们的目标是提供和[Poly](https://www.poly.com/cn/zh)或[ADT](https://www.adaptivedigital.com/)一样完美的音频解决方案。
 - 支持48 kHz全频带的回声消除，设计目标为了听感服务。
 - 集成下一代降噪，支持超低算力下的非稳态噪声和混响抑制。
 - 回声拖尾支持高达500ms，回声尾长可由用户调节。
@@ -13,11 +13,11 @@ RealClear AEC SDK是由重庆瑞可利科技有限公司开发的回声消除解
 - 在任何声学环境中提供卓越且一致的单次通话回声降低 80 dB。
 - 双向通话时发散度低，全双工音质基本无损，在双方通话期间提供 40 dB 或更多的稳定回声降低。
 - 支持全硬件平台ARM\RISC-V\MIPS\DSP\X86。
-- 针对多个ARM\RISC-V\DSP优化的浮点和定点实现可直接使用。
-- 支持多个扬声器和多个麦克风，支持远场拾音Beamform阵列。支持更多独立扩展模块如啸叫抑制。
+- 针对多平台（ARM\RISC-V\DSP）优化的浮点和定点算法，实现可直接使用。
+- 支持多个扬声器和多个麦克风，支持远场拾音Beamform阵列，支持更多独立扩展模块如啸叫抑制。
 - 高端应用中证明了卓越的性能，包括视频会议、免提电话和消费电子产品。
 ## 如何使用
-本SDK使用Visual Studio运行（建议VS2019）
+本SDK使用Visual Studio运行（建议VS2019），我们提供了静态库和动态库供您直接调用。
 
 属性->C/C++->代码生成->运行库->多线程DLL（/MD）
 
@@ -75,13 +75,17 @@ http://realclearsense.com/
           
 # RealClear AEC SDK for Windows
 ## Introduction
-RealClear AEC SDK is developed by ChongQing RealClear Co.Ltd for acoustic echo cancellation. It has the following features:
-- supports full-band (48 kHz) acoustic echo cancellation, noise suppression and dereverberation
-- handles echo tails of up to 500ms
-- handles various acoustic structures of devices and echo path, for example video sound bar
-- fast convergence (< 200ms)
-- handles single talk echo suppression of up to 70dB
-- full-duplex operation outputs lossless and smooth audio(when far and near signal level in normal range)
+RealClear AEC SDK is developed by ChongQing RealClear Co.Ltd for acoustic echo cancellation. Our goal is to offer the inudtry-leading solution that is as good as the solutions from top componies like [Poly](https://www.poly.com) or [ADT](https://www.adaptivedigital.com/). 
+- supports full-band (48 kHz) acoustic echo cancellation for better speech quality.
+- supports nonstationary noise suppression with very low computational cost, supports dereverberation.
+- supports user-adjustable echo tails of up to 500ms.
+- handles various acoustic structures of devices and echo path, for example video sound bar, smart glass or earphones.
+- fast convergence (< 200ms) at the speed of up to 100 dB / sec.
+- handles single talk echo suppression of up to 80dB under various acoustics environment.
+- full-duplex operation outputs lossless and smooth audio(when far and near signal level in normal range), provides more than 40 dB echo suppression during double talk.
+- supports all platforms (ARM\RISC-V\MIPS\DSP\X86) with platform-specific float-point or fixed-point algorithms.
+- supports far-field sound pickup and beamforming using audio devices with multiple micphones, supports extensible module like afc(adaptive feedback cancellation).
+- our solutions have been widely used in applications like video conferencing, cell phones and other consumer electronics.
 ## How to use
 This SDK can be only used in Visual Studio (recommend VS2019)
 
