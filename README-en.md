@@ -26,7 +26,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_delete(void* ptr);
 extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf, short* spk_buf, short* out_buf);  
 
 ## Demo
-Demo audio files download：[demo audio files](https://github.com/realclearsense/Real_AEC_Windows/tree/master/normal_room_demo_data)   
+More demo audio files can be found [here](https://github.com/realclearsense/Real_AEC_Windows/tree/master/demo_audio_data)   
  
 
 https://user-images.githubusercontent.com/9622783/131081455-2275ccc6-4b17-4525-bbdd-420761d6ee49.mp4
