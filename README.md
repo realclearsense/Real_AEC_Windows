@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/9622783/131081473-f2dfa672-2508-4547-9
 
 ## 联系我们
 
-|QQ：852557172|微信|
+|QQ群：852557172|微信|
 |--------|--------|
 |<img width="100" src="http://realclearsense.com/img/images/qq.jpg">|<img width="100" src="http://realclearsense.com/img/images/wechat.jpg">|
 email: 2217510@qq.com   
