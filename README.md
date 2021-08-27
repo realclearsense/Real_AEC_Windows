@@ -32,7 +32,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 
 测试环境：6-8平米书房，混响较小   
 离麦克风1米距离说话，DELL笔记本扬声器和双麦阵列。
-### 单讲测试效果
+### 单讲测试效果1
 https://user-images.githubusercontent.com/9622783/128284334-fe78882d-fdc9-4739-87bb-03b987b303f6.mp4
 
 
@@ -44,6 +44,7 @@ https://user-images.githubusercontent.com/9622783/128284381-d8e79929-3f06-4496-9
 https://user-images.githubusercontent.com/9622783/128284397-21247cbd-b0ad-4314-9ff7-1c7bc21e4a2a.mp4
 
 
+### 单讲测试效果2
 
 
 ### 双讲测试效果
