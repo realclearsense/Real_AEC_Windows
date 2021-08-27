@@ -2,7 +2,7 @@
 
       
 # RealClear AEC SDK for Windows
-##[中文说明](README.md)
+## [中文说明](README.md)
 ## Introduction
 RealClear AEC SDK is developed by ChongQing RealClear Co.Ltd for acoustic echo cancellation. Our goal is to offer inudtry-leading solutions that is as good as the solutions from top componies like [Poly](https://www.poly.com) or [ADT](https://www.adaptivedigital.com/). 
 - supports full-band (48 kHz) acoustic echo cancellation for better speech quality.
