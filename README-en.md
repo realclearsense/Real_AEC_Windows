@@ -16,7 +16,7 @@ RealClear AEC SDK is developed by ChongQing RealClear Co.Ltd for acoustic echo c
 - supports far-field sound pickup and beamforming using audio devices with multiple micphones, supports extensible module like afc (adaptive feedback cancellation).
 - our solutions have been widely used in applications like video conferencing, cell phones and other consumer electronics.
 ## How to use
-This SDK can be only used in Visual Studio (recommend VS2019), we provide static/dynamic libraries for your own applications.
+This SDK can be only used in Visual Studio (recommend VS2019), we provide static/dynamic libraries for your own applications. You can also use the [Visual Studio Demo Project](https://github.com/realclearsense/Real_AEC_Windows/tree/master/Visual_Studio_Demo_Project).   
 
 properties->C/C++->Code Generation->Runtime Library->Multi-threaded DLL（/MD）
 
@@ -26,7 +26,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_delete(void* ptr);
 extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf, short* spk_buf, short* out_buf);  
 
 ## Demo
-More demo audio files can be found [here](https://github.com/realclearsense/Real_AEC_Windows/tree/master/demo_audio_data). You can also use the [Visual Studio Demo Project](https://github.com/realclearsense/Real_AEC_Windows/tree/master/Visual_Studio_Demo_Project).   
+More demo audio files can be found [here](https://github.com/realclearsense/Real_AEC_Windows/tree/master/demo_audio_data). 
  
 
 https://user-images.githubusercontent.com/9622783/131081455-2275ccc6-4b17-4525-bbdd-420761d6ee49.mp4
