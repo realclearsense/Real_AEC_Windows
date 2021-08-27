@@ -2,7 +2,7 @@
 
 
 # 瑞可利 AEC SDK（Windows版）
-English instruction please see below.
+# [English instruction](README-en.md)
 ## 简介
 RealClear AEC SDK是由重庆瑞可利科技有限公司开发的回声消除解决方案。我们的目标是提供和[Poly](https://www.poly.com/cn/zh)或[ADT](https://www.adaptivedigital.com/)一样完美的音频解决方案。
 - 支持48 kHz全频带的回声消除，设计目标为了听感服务。
