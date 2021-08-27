@@ -114,7 +114,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 Demo audio files download：[demo audio files](https://github.com/realclearsense/Real_AEC_Windows/tree/master/normal_room_demo_data)   
  
 Testing environment: 6-8 square metre study room, mild reverberation.
-### Single Talk
+### Single Talk Example 1
 https://user-images.githubusercontent.com/9622783/128284334-fe78882d-fdc9-4739-87bb-03b987b303f6.mp4
 
 
@@ -124,6 +124,18 @@ https://user-images.githubusercontent.com/9622783/128284381-d8e79929-3f06-4496-9
 
 
 https://user-images.githubusercontent.com/9622783/128284397-21247cbd-b0ad-4314-9ff7-1c7bc21e4a2a.mp4
+
+### Single Talk Example 2
+
+https://user-images.githubusercontent.com/9622783/131069538-184a344f-910c-42e3-9d66-e9696d499c7e.mp4
+
+
+
+https://user-images.githubusercontent.com/9622783/131069550-be03fbbb-44fc-4c77-9a37-d85c537ba6fd.mp4
+
+
+
+https://user-images.githubusercontent.com/9622783/131069554-c1d160c4-8396-427f-830c-6df26d225cb8.mp4
 
 
 ### Double Talk
