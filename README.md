@@ -27,8 +27,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_delete(void* ptr);
 extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf, short* spk_buf, short* out_buf);  
 
 ## 效果展示
-所有展示用数据都可下载：  
-[音频文件](https://github.com/realclearsense/Real_AEC_Windows/tree/master/normal_room_demo_data)   
+所有展示用数据都可下载： [音频文件](https://github.com/realclearsense/Real_AEC_Windows/tree/master/normal_room_demo_data)   
 
 
 测试环境：6-8平米书房，混响较小   
@@ -97,10 +96,9 @@ extern "C" _declspec(dllexport) void REAL_AEC_delete(void* ptr);
 extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf, short* spk_buf, short* out_buf);  
 
 ## Demo
-Demo audio files download：  
-[Normal environment test audio files](https://github.com/realclearsense/Real_AEC_Windows/tree/master/normal_room_demo_data)   
+Demo audio files download：[demo audio files](https://github.com/realclearsense/Real_AEC_Windows/tree/master/normal_room_demo_data)   
  
-Testing environment: 6-8 square metre study room, almost no reverberation.
+Testing environment: 6-8 square metre study room, mild reverberation.
 ### Single Talk
 https://user-images.githubusercontent.com/9622783/128284334-fe78882d-fdc9-4739-87bb-03b987b303f6.mp4
 
