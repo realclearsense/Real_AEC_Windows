@@ -47,6 +47,20 @@ https://user-images.githubusercontent.com/9622783/128284397-21247cbd-b0ad-4314-9
 ### 单讲测试效果2
 
 
+
+https://user-images.githubusercontent.com/9622783/131069538-184a344f-910c-42e3-9d66-e9696d499c7e.mp4
+
+
+
+https://user-images.githubusercontent.com/9622783/131069550-be03fbbb-44fc-4c77-9a37-d85c537ba6fd.mp4
+
+
+
+https://user-images.githubusercontent.com/9622783/131069554-c1d160c4-8396-427f-830c-6df26d225cb8.mp4
+
+
+
+
 ### 双讲测试效果
 
 
