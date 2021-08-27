@@ -1,4 +1,4 @@
-[<p align="center"><img width="230" src="http://realclearsense.com/img/images/github_icon.png"></p>](www.realclearsense.com)
+[<p align="center"><img width="230" src="http://realclearsense.com/img/images/github_icon.png"></p>](http://realclearsense.com/)
 
       
 # RealClear AEC SDK for Windows
