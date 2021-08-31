@@ -2,7 +2,7 @@
 
 
 # 瑞可利 AEC SDK（Windows版）
-English instruction please see below.
+# [English instruction](README-en.md)
 ## 简介
 RealClear AEC SDK是由重庆瑞可利科技有限公司开发的回声消除解决方案。我们的目标是提供和[Poly](https://www.poly.com/cn/zh)或[ADT](https://www.adaptivedigital.com/)一样完美的音频解决方案。
 - 支持48 kHz全频带的回声消除，设计目标为了听感服务。
@@ -17,7 +17,7 @@ RealClear AEC SDK是由重庆瑞可利科技有限公司开发的回声消除解
 - 支持多个扬声器和多个麦克风，支持远场拾音Beamform阵列，支持更多独立扩展模块如啸叫抑制。
 - 高端应用中证明了卓越的性能，包括视频会议、免提电话和消费电子产品。
 ## 如何使用
-本SDK使用Visual Studio运行（建议VS2019），我们提供了静态库和动态库供您直接调用。
+本SDK使用Visual Studio运行（建议VS2019），我们提供了静态库和动态库供您直接调用，您也可以使用我们提供的[VS工程样例](https://github.com/realclearsense/Real_AEC_Windows/tree/master/Visual_Studio_Demo_Project)。
 
 属性->C/C++->代码生成->运行库->多线程DLL（/MD）
 
@@ -27,7 +27,7 @@ extern "C" _declspec(dllexport) void REAL_AEC_delete(void* ptr);
 extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf, short* spk_buf, short* out_buf);  
 
 ## 效果展示
-所有展示用数据都可下载： [音频文件](https://github.com/realclearsense/Real_AEC_Windows/tree/master/normal_room_demo_data)   
+更多效果展示[音频文件](https://github.com/realclearsense/Real_AEC_Windows/tree/master/demo_audio_data)   
 
 
 https://user-images.githubusercontent.com/9622783/131081455-2275ccc6-4b17-4525-bbdd-420761d6ee49.mp4
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/9622783/131081473-f2dfa672-2508-4547-9
 
 ## 联系我们
 
-|QQ：852557172|微信|
+|QQ群：852557172|微信|
 |--------|--------|
 |<img width="100" src="http://realclearsense.com/img/images/qq.jpg">|<img width="100" src="http://realclearsense.com/img/images/wechat.jpg">|
 email: 2217510@qq.com   
