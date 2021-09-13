@@ -27,20 +27,12 @@ extern "C" _declspec(dllexport) void REAL_AEC_process(void* ptr, short* mic_buf,
 
 ## Demo
 More demo audio files can be found [here](https://github.com/realclearsense/Real_AEC_Windows/tree/master/demo_audio_data). 
- 
 
-https://user-images.githubusercontent.com/9622783/131451289-b2a74363-e19a-4138-b8b4-2c31d0478495.mp4
+https://user-images.githubusercontent.com/9622783/131809458-a5cc2fe8-945b-4894-992f-cf0ef9e1cb19.mp4
 
+https://user-images.githubusercontent.com/9622783/131809488-a5374fe4-1e1d-45a8-ac36-2cc29ae58989.mp4
 
-
-https://user-images.githubusercontent.com/9622783/131451343-adc7351a-44ab-4c07-ba92-29ac3a3bdca6.mp4
-
-
-
-https://user-images.githubusercontent.com/9622783/131451380-7bfe72af-6cf3-444b-ac66-b3970463722d.mp4
-
-
-
+https://user-images.githubusercontent.com/9622783/131809501-8bf9dd50-1023-46f3-a771-42c32bc232d2.mp4
 
 
 ## Contact
